@@ -1,0 +1,9 @@
+body    {
+    background-color: azure;
+}
+
+h1{color: royalblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+p   {color: black;
+    margin: 50px;}
